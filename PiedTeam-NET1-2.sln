@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiedTeam-NET1-2.Buoi2", "PiedTeam-NET1-2.Buoi2\PiedTeam-NET1-2.Buoi2.csproj", "{AD1B1119-D944-445D-9E20-2F71CDFDD1A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiedTeam-NET1-2.Buoi3", "PiedTeam-NET1-2.Buoi3\PiedTeam-NET1-2.Buoi3.csproj", "{2D5CA29C-437B-4A81-9565-366C8DDD6F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiedTeam-NET1-2.Buoi3.1", "PiedTeam-NET1-2.Buoi3.1\PiedTeam-NET1-2.Buoi3.1.csproj", "{651F8B20-7CDF-46E8-A1BF-DA6797712CEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{AD1B1119-D944-445D-9E20-2F71CDFDD1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1B1119-D944-445D-9E20-2F71CDFDD1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1B1119-D944-445D-9E20-2F71CDFDD1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5CA29C-437B-4A81-9565-366C8DDD6F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5CA29C-437B-4A81-9565-366C8DDD6F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5CA29C-437B-4A81-9565-366C8DDD6F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5CA29C-437B-4A81-9565-366C8DDD6F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651F8B20-7CDF-46E8-A1BF-DA6797712CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651F8B20-7CDF-46E8-A1BF-DA6797712CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651F8B20-7CDF-46E8-A1BF-DA6797712CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651F8B20-7CDF-46E8-A1BF-DA6797712CEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

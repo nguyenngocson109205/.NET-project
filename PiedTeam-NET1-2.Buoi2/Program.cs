@@ -84,7 +84,8 @@
                 // pass by references
                 // C# nó cung cấp thêm 2 món lạ cung cấp đén tham số của hàm 
                 // tham số truyền vào là một con trỏ
-                // out: trả ra giá trị thông qua biến out 
+                // out: trả ra giá trị thông qua biến out | trong 1 hàm có thể có nhiều out nhưng chỉ có thể có 1 return
+                
                 // ref: truyền vào một biến có sẵn, hàm có thể thay đổi giá trị của biến đó
                 // 2 thằng này giúp mở rộng ciệc của 1 cái hàm 
                 // define Ref:
@@ -119,19 +120,25 @@
             PassByOut(out n);
             Console.WriteLine("After PassByOut, a = " + n);
             
-            // viết hàm tính của của các số từ 1 -> n, cấm dùng 
-                // return nhưng mà vẫn lấy được giá trị trong hàng 
-                static void TotalCount(int n, out int sum)
+            // viết một hàm tính tổng cáo số chẵn là số lượng các số chẵn từ 1 đến n và cấm dùng return nhưng vẫn lấy đc 2 kq
+                static void TotalCount(int n, out int sum, out  int totalNumber)
                 {
+                    totalNumber = 0;
                     sum = 0;
-                    for (int i = 1; i <= n; i++)
-                    {
+                    for (int i = 2; i <= n; i+=2)
+                    {   
+                        totalNumber += 1;
                         sum += i;
                     }
                 }
 
                 int sum = 0;
-                TotalCount(n:10,out sum);
-                Console.WriteLine("After TotalCount, sum = " + sum);
+                int totalNumber = 0;
+                TotalCount(n:10,out sum, out totalNumber);
+                Console.WriteLine("TotalCount = " + totalNumber + "; Sum = " + sum);
+                
+                
+               
+                    
         }
     }

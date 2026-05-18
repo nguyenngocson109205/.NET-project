@@ -1,0 +1,15 @@
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\bin\Debug\net8.0\PiedTeam-NET1-2.Buoi3.exe
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\bin\Debug\net8.0\PiedTeam-NET1-2.Buoi3.deps.json
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\bin\Debug\net8.0\PiedTeam-NET1-2.Buoi3.runtimeconfig.json
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\bin\Debug\net8.0\PiedTeam-NET1-2.Buoi3.dll
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\bin\Debug\net8.0\PiedTeam-NET1-2.Buoi3.pdb
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.AssemblyInfoInputs.cache
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.AssemblyInfo.cs
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.csproj.CoreCompileInputs.cache
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.sourcelink.json
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.dll
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\refint\PiedTeam-NET1-2.Buoi3.dll
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.pdb
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\PiedTeam-NET1-2.Buoi3.genruntimeconfig.cache
+D:\Learn\PiedTeam-NET1-2\PiedTeam-NET1-2.Buoi3\obj\Debug\net8.0\ref\PiedTeam-NET1-2.Buoi3.dll

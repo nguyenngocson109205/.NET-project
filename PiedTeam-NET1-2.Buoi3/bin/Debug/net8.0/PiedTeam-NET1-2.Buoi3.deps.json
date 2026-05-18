@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PiedTeam-NET1-2.Buoi3/1.0.0": {
+        "runtime": {
+          "PiedTeam-NET1-2.Buoi3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PiedTeam-NET1-2.Buoi3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
